@@ -1,0 +1,10 @@
+streamlit==1.38.0
+transformers==4.45.1
+sentence-transformers==3.1.1
+faiss-cpu==1.8.0
+langchain-community==0.3.0
+youtube-transcript-api==0.6.1
+Pillow==10.4.0
+scikit-learn==1.5.1
+accelerate==1.0.1
+torch==2.4.1
